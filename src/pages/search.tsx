@@ -76,7 +76,7 @@ const SearchResult = () => {
   // Restablecer la página actual a 1 al cambiar el término de búsqueda
   useEffect(() => {
     setCurrentPageRedux(1);
-  }, [searchTerm]);
+  }, [setCurrentPageRedux]);
 
   //pruebas
   useEffect(() => {

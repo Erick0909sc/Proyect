@@ -106,10 +106,7 @@ const Contactanos = (props: Props) => {
               </h1>
 
               <p className="mt-3 text-gray-800 ">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos
-                molestias praesentium, aliquam ex eaque provident laudantium
-                voluptatem doloribus, accusamus architecto amet. Dignissimos
-                molestiae mollitia praesentium saepe atque illum quae laborum!.
+                
               </p>
             </div>
 
